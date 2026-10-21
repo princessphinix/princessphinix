@@ -1,64 +1,55 @@
-## Hi there 👋
 
-<!--
-# Hi, I'm Akanksha Kumari! 👋
+# 👋 Hi there, I'm Akanksha Kumari!
 
-Welcome to my GitHub!
-
-Aspiring Data Analyst |  • SQL • ML • Power BI • Generative AI • Tableau • Python
+Aspiring Data Analyst | SQL • Power BI • Excel • Python • Tableau • Generative AI
 
 ## 🎓 About Me
 
-  • Skilled in Power BI, SQL, Excel, Generative AI, Python 
+-  M.Sc. in Data Science & Analytics (2023–2025).
+-  Interested in Data Analytics, Business Intelligence, and Data Visualization.
+-  Enjoy analyzing datasets, identifying trends, and solving problems through data-driven approaches.
+-  Continuously improving my analytical and technical skills through hands-on projects.
 
-  • Interested in Data Analytics, Business Intelligence, and Data Visualization.
+📍 Kolkata, India
 
-  • Enjoy analyzing datasets, identifying trends, and solving problems through data-driven approaches.
+---
 
-  • Continuously improving my analytical and technical skills through hands-on projects.
+## 🛠️ Skills & Tools
 
-**📍 Kolkata, India**
-**🎓 M.Sc. in Data Science & Analytics (2023–2025)**
-
-
-### 🛠️ Skills & Tools
-
-  • Data Visualization & BI: Power BI , Tableau
-
-  • Programming: Python
-
-  • Database Management: SQL
-
-  • Data Analysis: Microsoft Excel, Exploratory Data Analysis (EDA)
-
-Core Interests: Business Analytics, Data Visualization, Data-Driven Decision Making
-
-### 🚀 What I'm Working On
-
-  • Building practical data analytics projects.
-
-  • Developing interactive dashboards using Power BI.
-
-  • Strengthening my SQL, Python, and Excel skills.
-
-  • Exploring datasets to uncover trends, patterns, and actionable insights.
-
-### 📂 Featured Projects
-
-  • **Diving-into-Data-with-Adventure-Works** (https://github.com/princessphinix/Diving-into-Data-with-Adventure-Works)
-  • 
-  •
+-  **Data Visualization & BI:** Power BI, Tableau
+-  **Programming:** Python
+-  **Database Management:** SQL
+-  **Data Analysis:** Microsoft Excel, Exploratory Data Analysis (EDA)
 
 
-### 🤝 Let's Connect!
+---
+
+## 🚀 What I'm Working On
+
+- Building practical data analytics projects.
+- Developing interactive dashboards using Power BI.
+- Strengthening my SQL, Python, and Excel skills.
+- Exploring datasets to uncover trends, patterns, and actionable insights.
+
+---
+
+## 📂 Featured Projects
+
+- 📊 [**Diving into Data with Adventure Works**](https://github.com/princessphinix/Diving-into-Data-with-Adventure-Works)  
+  Exploring business data and developing analytical insights using Power BI.
+- 🐍 [**Hotel Booking Cancellation Analysis**](https://github.com/princessphinix/HOTEL-BOOKING-ANALYSIS-PROJECT-USING-PYTHON)<br>
+  The goal is to provide actionable insights to help hotels reduce cancellation rates and improve revenue efficiency.
+  Using Python libraries such as Pandas, Matplotlib, and Seaborn, the analysis focuses on identifying patterns in customer behaviour, lead time, pricing, and booking sources.
+- 🎵 [**Exploring the Relationship Between Music, Concentration, and Task Performance**](https://github.com/princessphinix/EXPLORING-THE-RELATIONSHIP-BETWEEN-MUSIC-CONCENTRATION-AND-TASK-PERFORMANCE)<br>
+  The research includes a structured survey to collect quantitative and qualitative data on participants’ music habits, preferences, and performance levels while engaging in tasks.
+  
+---
+
+## 🤝 Let's Connect!
 
 I'm always open to learning opportunities, collaboration, and connecting with fellow data enthusiasts.
 
-💼 LinkedIn: [https://www.linkedin.com/in/akanksha-kumari-4252812ba/]
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/akanksha-kumari-4252812ba/)
+- 📧 **Email:** [akanksha.official.007@gmail.com](mailto:akanksha.official.007@gmail.com)
 
-📧 Email: [akanksha.official.007@gmail.com]
-
-Thanks for visiting my GitHub profile! 😊
--->
-
--->
+⭐ Thanks for visiting my GitHub profile!
